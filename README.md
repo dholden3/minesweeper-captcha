@@ -1,4 +1,4 @@
-This is a mockup of XKCD comic [2496](https://xkcd.com/2496/). I may add the functionality of having different puzzles later. 
+This is a mockup of XKCD comic [2496](https://xkcd.com/2496/). I may add the functionality of having different puzzles later. Some code is taken from the [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 
 # Getting Started with Create React App
 
