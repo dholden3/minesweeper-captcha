@@ -1,3 +1,5 @@
+This is a mockup of XKCD comic [2496](https://xkcd.com/2496/). I may add the functionality of having different puzzles later. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
